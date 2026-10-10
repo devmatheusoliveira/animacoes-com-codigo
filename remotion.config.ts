@@ -10,3 +10,10 @@ import { Config } from "@remotion/cli/config";
 Config.setRspack(true);
 Config.setVideoImageFormat("jpeg");
 Config.setOverwriteOutput(true);
+// Upload-friendly SDR MP4 defaults. Audio is encoded only when the scene has it.
+Config.setCodec("h264");
+Config.setPixelFormat("yuv420p");
+Config.setColorSpace("bt709");
+Config.setCrf(18);
+Config.setAudioCodec("aac");
+Config.setAudioBitrate("192k");

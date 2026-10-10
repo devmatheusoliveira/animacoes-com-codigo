@@ -6,14 +6,28 @@
   "license": "UNLICENSED",
   "private": true,
   "dependencies": {
+    "@react-three/fiber": "9.8.1",
     "@remotion/cli": "4.0.534",
+    "@remotion/fonts": "4.0.534",
+    "@remotion/google-fonts": "4.0.534",
+    "@remotion/media": "4.0.534",
+    "@remotion/sfx": "4.0.534",
+    "@remotion/three": "4.0.534",
+    "@remotion/transitions": "4.0.534",
+    "@remotion/zod-types": "4.0.534",
+    "@svg-maps/brazil": "^1.0.1",
+    "mermaid": "^12.1.0",
     "react": "19.2.3",
     "react-dom": "19.2.3",
-    "remotion": "4.0.534"
+    "remotion": "4.0.534",
+    "three": "0.186.1",
+    "uisfx": "0.4.0",
+    "zod": "4.5.4"
   },
   "devDependencies": {
     "@remotion/eslint-config-flat": "4.0.534",
     "@types/react": "19.2.7",
+    "@types/three": "0.186.0",
     "@types/web": "0.0.166",
     "eslint": "9.39.5",
     "prettier": "3.8.1",
@@ -21,6 +35,12 @@
   },
   "scripts": {
     "dev": "remotion studio",
+    "models:openscad": "node scripts/generate-openscad.mjs",
+    "openscad:live": "node scripts/openscad-live.mjs",
+    "check:formats": "node scripts/check-video-formats.mjs",
+    "render:youtube": "remotion render --props=presets/youtube.json",
+    "render:shorts": "remotion render --props=presets/youtube-shorts.json",
+    "render:reels": "remotion render --props=presets/instagram-reels.json",
     "build": "remotion bundle",
     "upgrade": "remotion upgrade",
     "lint": "eslint src && tsc"
