@@ -8,31 +8,31 @@ Todos os exemplos abaixo estão renderizados em formato horizontal (1920 × 1080
 
 ### Animação 3D do escritório
 
-<video src="public/videos/office-scene-3d.mp4" controls width="720"></video>
+[![Preview da animação 3D](public/videos/office-scene-3d.jpg)](public/videos/office-scene-3d.mp4)
 
 [Baixar o vídeo da animação 3D](public/videos/office-scene-3d.mp4)
 
 ### Mapa do Brasil
 
-<video src="public/videos/brasil-estados.mp4" controls width="720"></video>
+[![Preview do mapa do Brasil](public/videos/brasil-estados.jpg)](public/videos/brasil-estados.mp4)
 
 [Baixar o vídeo do mapa do Brasil](public/videos/brasil-estados.mp4)
 
 ### Flutter Widgets
 
-<video src="public/videos/flutter-widgets.mp4" controls width="720"></video>
+[![Preview de Flutter Widgets](public/videos/flutter-widgets.jpg)](public/videos/flutter-widgets.mp4)
 
 [Baixar o vídeo de Flutter](public/videos/flutter-widgets.mp4)
 
 ### OpenSCAD paramétrico
 
-<video src="public/videos/openscad-parametrico.mp4" controls width="720"></video>
+[![Preview de OpenSCAD](public/videos/openscad-parametrico.jpg)](public/videos/openscad-parametrico.mp4)
 
 [Baixar o vídeo de OpenSCAD](public/videos/openscad-parametrico.mp4)
 
 ### Compilado completo
 
-<video src="public/videos/animacoes-completas.mp4" controls width="720"></video>
+[![Preview do vídeo completo](public/videos/animacoes-completas.jpg)](public/videos/animacoes-completas.mp4)
 
 [Baixar o vídeo compilado completo](public/videos/animacoes-completas.mp4)
 
