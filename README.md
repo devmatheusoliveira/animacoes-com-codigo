@@ -8,31 +8,31 @@ Todos os exemplos abaixo estão renderizados em formato horizontal (1920 × 1080
 
 ### Animação 3D do escritório
 
-[![Preview da animação 3D](https://raw.githubusercontent.com/devmatheusoliveira/animacoes-com-codigo/main/public/videos/office-scene-3d.jpg)](https://github.com/devmatheusoliveira/animacoes-com-codigo/raw/refs/heads/main/public/videos/office-scene-3d.mp4)
+[![Preview da animação 3D](public/videos/office-scene-3d.jpg)](public/videos/office-scene-3d.mp4)
 
 [Baixar o vídeo da animação 3D](public/videos/office-scene-3d.mp4)
 
 ### Mapa do Brasil
 
-[![Preview do mapa do Brasil](https://raw.githubusercontent.com/devmatheusoliveira/animacoes-com-codigo/main/public/videos/brasil-estados.jpg)](https://github.com/devmatheusoliveira/animacoes-com-codigo/raw/refs/heads/main/public/videos/brasil-estados.mp4)
+[![Preview do mapa do Brasil](public/videos/brasil-estados.jpg)](public/videos/brasil-estados.mp4)
 
 [Baixar o vídeo do mapa do Brasil](public/videos/brasil-estados.mp4)
 
 ### Flutter Widgets
 
-[![Preview de Flutter Widgets](https://raw.githubusercontent.com/devmatheusoliveira/animacoes-com-codigo/main/public/videos/flutter-widgets.jpg)](https://github.com/devmatheusoliveira/animacoes-com-codigo/raw/refs/heads/main/public/videos/flutter-widgets.mp4)
+[![Preview de Flutter Widgets](public/videos/flutter-widgets.jpg)](public/videos/flutter-widgets.mp4)
 
 [Baixar o vídeo de Flutter](public/videos/flutter-widgets.mp4)
 
 ### OpenSCAD paramétrico
 
-[![Preview de OpenSCAD](https://raw.githubusercontent.com/devmatheusoliveira/animacoes-com-codigo/main/public/videos/openscad-parametrico.jpg)](https://github.com/devmatheusoliveira/animacoes-com-codigo/raw/refs/heads/main/public/videos/openscad-parametrico.mp4)
+[![Preview de OpenSCAD](public/videos/openscad-parametrico.jpg)](public/videos/openscad-parametrico.mp4)
 
 [Baixar o vídeo de OpenSCAD](public/videos/openscad-parametrico.mp4)
 
 ### Compilado completo
 
-[![Preview do vídeo completo](https://raw.githubusercontent.com/devmatheusoliveira/animacoes-com-codigo/main/public/videos/animacoes-completas.jpg)](https://github.com/devmatheusoliveira/animacoes-com-codigo/raw/refs/heads/main/public/videos/animacoes-completas.mp4)
+[![Preview do vídeo completo](public/videos/animacoes-completas.jpg)](public/videos/animacoes-completas.mp4)
 
 [Baixar o vídeo compilado completo](public/videos/animacoes-completas.mp4)
 
